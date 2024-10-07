@@ -1,11 +1,11 @@
 {
-  "version": "1.6.2",
-  "package": "https://github.com/gscr/wpstarter-releases/raw/refs/heads/main/1.6.2.zip",
+  "version": "1.6.3",
+  "package": "https://github.com/gscr/wpstarter-releases/raw/refs/heads/main/1.6.3.zip",
   "last_updated": "2024-10-07",
   "sections": {
     "description": "A new release of the theme is available.",
     "changelog": "Check the changelog for more information."
   },
   "details_url": "https://github.com/gscr/wpstarter-releases",
-  "download_url": "https://github.com/gscr/wpstarter-releases/raw/refs/heads/main/1.6.2.zip"
+  "download_url": "https://github.com/gscr/wpstarter-releases/raw/refs/heads/main/1.6.3.zip"
 }
